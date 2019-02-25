@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+ 
 describe 'Patient' do
   describe '#new' do
     it 'initializes with a name' do
